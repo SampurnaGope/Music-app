@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(0, 0, 0);
+color: white;
+}
+
+.note{
+    font-size:15px;
+    color:rgb(255, 255, 255);
+}
+body{
+    background-size:cover;
+}
+
+canvas{
+    border:20px;
+    border-color: black;
+    border-radius:20%;
+    box-shadow: 5px 5px 5px white;
+    
+}
+
+.play_sound{
+    width:255;
+    font-size:20px;
+   
+    
+
+}
+.stop_sound{
+    width:255;
+    font-size:20px;
+}
+
+
